@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodList</string>
+    <string name="info_icon">Info Icon</string>
+    <string name="recipe_image">Recipe Image</string>
+    <string name="like">Like</string>
+    <string name="recipe">Recipe</string>
+    <string name="close_icon">Close Icon</string>
+    <string name="minute">"Minute"</string>
+
+
+</resources>
